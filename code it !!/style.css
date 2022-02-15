@@ -1,0 +1,24 @@
+body {
+    background-image:url("Deadpool.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#grad1 {
+    height:100px;
+    background-color: rgb(214, 25, 25);
+    background-image:linear-gradient( to right,rgb(255, 0, 0),rgba(59, 0, 0));
+}
+
+h1{
+    color:aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p1 {
+    background-image:linear-gradient( to right,rgb(212, 21, 21),rgba(59, 20, 199, 0.164));
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
